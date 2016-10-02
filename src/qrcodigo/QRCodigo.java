@@ -16,7 +16,7 @@ public class QRCodigo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Estamos probando todo");
+        System.out.println("Estamos probando que no haya conflictos con la rama principal");
     }
     
 }
